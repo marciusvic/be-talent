@@ -34,12 +34,12 @@ export default function EmployeeTable() {
   };
 
   return (
-    <div className="w-full !h-full p-4 sm:p-8 space-y-2 mt-1">
-      <div className="w-full flex flex-col sm:flex-row sm:itens-center sm:justify-between sm:items-center space-y-6">
+    <div className="w-full !h-full p-4 md:p-8 space-y-2 mt-1">
+      <div className="w-full flex flex-col md:flex-row md:itens-center md:justify-between md:items-center space-y-6">
         <h1 className="text-black-neutral h-fit font-medium text-[20px] leading-[24.42px]">
           Funcionários
         </h1>
-        <div className="relative mb-4 max-w-[600px] w-full">
+        <div className="relative mb-4 max-w-[600px] md:max-w-[287px] w-full">
           <input
             type="text"
             placeholder="Pesquisar"
