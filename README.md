@@ -2,6 +2,11 @@
 
 - Descrição do desafio no [`link`](https://github.com/BeMobile/desafio-front-end)
 
+## Requisitos
+
+- Node.js (versão 22.13.1 utilizada para desenvolver)
+- npm (versão 11.1.0 utilizada para desenvolver)
+
 ## Como rodar o projeto
 
 1. Clone o repositório
